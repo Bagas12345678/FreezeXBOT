@@ -16,23 +16,23 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 • Berbicaralah yang sopan & tidak spam
 • Owner Hanya merespon yang berkaitan dengan BOT
 • No Telp
-• Chat gajelas = Block`
+• Chat Virtex = Block`
 
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-*💌 Nama* : Fangz
-*✉️ Nama RL* : FangzBOT
+*💌 Nama* : Ikmal
+*✉️ Nama RL* : FreezeXBOT
 *♂️ Gender* : Laki - laki
 *🕋 Agama* : Islam
-*⏰ Tanggal lahir* : 25 oktober 2007
-*🎨 Umur* : 15
-*🧮 Kelas* : 9
-*🧩 Hobby* : Nonton henta*, main game, Recode script
-*💬 Sifat* : Baik, hode, softboy, tydack ramah, g*y
-*🗺️ Tinggal* : Indonesia, jawa, bogor
-*❤️ Suka* : warnah pink & hitam, trap, waifu wangy, kucing
-*💔 Benci* : anak alay, autis, anak epep, sok asik
+*⏰ Tanggal lahir* : -
+*🎨 Umur* : -
+*🧮 Kelas* : -
+*🧩 Hobby* : Nonton Tiktok*, main game, Recode script
+*💬 Sifat* : Baik, GoodLuking, goodboy, ramah, sopan
+*🗺️ Tinggal* : Indonesia, jawa, Karawang
+*❤️ Suka* : warnah pink & biru, Daging Manusia, kucing
+*💔 Benci* : anak alay, autis, anak gk jls, sok asik
 
 *- - sᴋɪʟʟs: - -* 
 > JavaScript [70.7%]
@@ -45,12 +45,12 @@ let teksbio = `${htki} *BIODATA* ${htka}
 ───────[ SOSIAL MEDIA ]───────
 
 📷 *Instagram:* ${sig}
-🏮 *Youtube:* https://youtube.com/channel/UCACHvReRmw2fxgMutPFCBWg
+🏮 *Youtube:* https://youtube.com/channel/UCk2nwucP_xvVekaokk0QnWg
 🐈 *Github:* ${sgh}
 🥏 *Whatsapp* wa.me/${nomorown}
-🌐 *Discord:* Soon
-🌏 *Website:* https://fangzbot.websites.co.in/
-🎶 *Tiktok:* tiktok.com/@fangzjb
+🌐 *Discord:* -
+🌏 *Website:* https://IkmalMtp2.websites.co.in/
+🎶 *Tiktok:* tiktok.com/@IkmalGamink
 
 `
   let teks = ' '
