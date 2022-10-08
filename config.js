@@ -12,6 +12,7 @@
 // • FangzBot
 // • Rasel comel
 // • Xtreshe (Beban)
+// •Ikmal
 // • Dll
 
 //[!] Jangan Dihapus, mending ditambahin 
@@ -52,29 +53,29 @@ global.sdc = 'https://s.id/Ikmal'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '082127081926'
-global.povo = '082127081926'
-global.pgopay = '082127081926'
-global.ppulsa = '082127081926'
-global.ppulsa2 = '085717589375'
+global.pdana = '085892778812'
+global.povo = '085892778812'
+global.pgopay = '085892778812'
+global.ppulsa = '085892778812'
+global.ppulsa2 = '085892778812'
 global.psaweria = 'https://saweria.co/IkmalMtp2'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285717589375'
-global.nomorown = '6282127081926'
-global.namebot = ' 「 FreezeXBOT ⁩㊣ 」'
-global.nameown = 'Ikmal'
+global.nomorbot = '1(865)4015223'
+global.nomorown = '6285892778812'
+global.namebot = ' 「 CooldXbot ⁩㊣ 」'
+global.nameown = 'Bgs'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282127081926'],
-  ['6282127081926'],
-  ['6285717589375'],
-  ['6285717589375', 'Ikmal', true]
+  ['6285892778812'],
+  ['6285892778812'],
+  ['6285892778812'],
+  ['6285892778812', 'Bgs', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['6282127081926'] // Want some help?
+global.mods = ['6285892778812'] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
@@ -117,13 +118,13 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
-global.wm = '                「 FreezeXBOT あ⁩ 」' //Main Watermark
-global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ FreezeXBOT ¨˜ˆ”°⍣~•⊹٭„¸'
-global.wm3 = '⫹⫺ FreezeX𝗕𝗢𝗧'
+global.wm = '                「 CoollBOTx あ⁩ 」' //Main Watermark
+global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ CoollBOTx ¨˜ˆ”°⍣~•⊹٭„¸'
+global.wm3 = '⫹⫺ CoollBOTx'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '𝗥𝗣𝗚 | Whatsapp ʙᴏᴛ By Ikmal'
-global.author = '       ┄┄┄┅┅❑ Ikmal ❑┅┅┄┄┄'
+global.titlebot = '𝗥𝗣𝗚 | Whatsapp ʙᴏᴛ By Bgs'
+global.author = '       ┄┄┄┅┅❑ Bgs ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
